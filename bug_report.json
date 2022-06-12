@@ -1,1 +1,15 @@
-line 1
+{
+  "Bug_ID" : "1",
+  "Title" : "Footer_column_headers_are_not_on_the_same_level",
+  "Severiry" : "Minor",
+  "Environment" : "Windows_10_64_bit_Chrome_v98.0.3440",
+  "Precondition" : "Open_sie_https://qatest-dev.indvp.com",
+  "STR" : {
+    "1" : "Open_home_page",
+    "2" : "Scroll_down_page",
+    "3" : "Pay_attention_to_the_column_headings_in_the_footer"
+  },
+  "AR" : "Footer_column_headers_are_not_on_the_same_level_See_screenschot",
+  "ER" : "Column_headings_on_the_same_level"
+}
+  

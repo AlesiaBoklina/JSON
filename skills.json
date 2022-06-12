@@ -1,5 +1,7 @@
-клиент-серверная архитектура
-HTTP
-JSON, XML
-Postman, API
-Charles, Fidler[D[D[Dd[C[C
+{
+	"skill_1" : "HTTP",
+	"skill_2" : "JSON",
+	"skill_3" : "XML",
+	"skill_4" : "Postman",
+	"skill_5" : "Charles"
+}

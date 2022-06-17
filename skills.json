@@ -1,7 +1,6 @@
 {
-	"skill_1" : "HTTP",
-	"skill_2" : "JSON",
-	"skill_3" : "XML",
-	"skill_4" : "Postman",
-	"skill_5" : "Charles"
+	"Базы данных" : "MySQL",
+	"GIT" : "GitBush,GitHub",
+	"Тестирование API" : "Postman",
+	"Перехват трафика" : "Charles"
 }
